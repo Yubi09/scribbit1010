@@ -1,1 +1,1 @@
-console.log("This is a javscript file");
+console.log("This is a javscript");
